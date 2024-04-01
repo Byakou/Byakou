@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding with C++ and Java, and cybersecurity
 - 🌱 I’m currently learning Computer Science at San Francisco State University
 - 💞️ I’m looking to collaborate on projects this next year
-- 📫 How to reach me, (858)205-9688
 
 <!---
 Byakou/Byakou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
